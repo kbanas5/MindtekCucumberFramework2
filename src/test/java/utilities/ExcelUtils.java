@@ -35,7 +35,7 @@ public class ExcelUtils {
         } catch (FileNotFoundException e) {
             System.out.println("Excel spreadsheet path is invalid " + path);
         } catch (IOException e) {
-            System.out.println("Couldn't opern Excel");
+            System.out.println("Couldn't open Excel");
         }
 
     }
