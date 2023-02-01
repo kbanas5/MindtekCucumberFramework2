@@ -9,6 +9,7 @@
           <option value="junit:junit" />
           <option value="io.cucumber:cucumber-java" />
           <option value="io.cucumber:cucumber-junit" />
+          <option value="org.apache.poi:poi-ooxml" />
         </list>
       </option>
     </inspection_tool>
